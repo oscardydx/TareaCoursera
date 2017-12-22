@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea Coursera</string>
+    <string name="titulo">Hola, Bienvenido.</string>
+    <string name="boton">Iniciar Sesion</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coursera Aufgabe</string>
+    <string name="titulo">Hallo, willkommen.</string>
+    <string name="boton">Einloggen</string>
+</resources>
